@@ -3,7 +3,10 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Ennemi
+  - Ground
+  - Map
   layers:
   - Default
   - TransparentFX
@@ -12,8 +15,8 @@ TagManager:
   - Water
   - UI
   - Coin
-  - 
-  - 
+  - Ennemi
+  - Ground
   - 
   - 
   - 
@@ -40,4 +43,10 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: UI
+    uniqueID: 3867002177
+    locked: 0
+  - name: Game
+    uniqueID: 2824361219
     locked: 0

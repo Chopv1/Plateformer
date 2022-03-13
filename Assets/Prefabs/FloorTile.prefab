@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 8789144659400846741}
   - component: {fileID: 1870327197688408960}
   - component: {fileID: 8409925501562991337}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grass
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -93,9 +93,9 @@ GameObject:
   - component: {fileID: 3383503264623452258}
   - component: {fileID: 6717532442769769827}
   - component: {fileID: 6987476285259361956}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: FloorTile
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
