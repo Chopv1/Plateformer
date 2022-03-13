@@ -1765,6 +1765,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 1957020131}
     - target: {fileID: 4254247281784929349, guid: dcaafebaa7cc988459daa6b1eab752ca, type: 3}
+      propertyPath: playerr
+      value: 
+      objectReference: {fileID: 12910309}
+    - target: {fileID: 4254247281784929349, guid: dcaafebaa7cc988459daa6b1eab752ca, type: 3}
       propertyPath: whatIsGround.m_Bits
       value: 256
       objectReference: {fileID: 0}
@@ -2198,7 +2202,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6705024252516191282, guid: 4ff0ae0748195db4589d2c9590b392a4, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -39.39
+      value: -40.19
       objectReference: {fileID: 0}
     - target: {fileID: 6705024252516191282, guid: 4ff0ae0748195db4589d2c9590b392a4, type: 3}
       propertyPath: m_LocalPosition.y
@@ -2282,7 +2286,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 1250, y: 1250}
+  m_SizeDelta: {x: 2000, y: 2000}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &425052927
 MonoBehaviour:
@@ -4939,6 +4943,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 1957020131}
     - target: {fileID: 4254247281784929349, guid: dcaafebaa7cc988459daa6b1eab752ca, type: 3}
+      propertyPath: playerr
+      value: 
+      objectReference: {fileID: 12910309}
+    - target: {fileID: 4254247281784929349, guid: dcaafebaa7cc988459daa6b1eab752ca, type: 3}
       propertyPath: whatIsGround.m_Bits
       value: 256
       objectReference: {fileID: 0}
@@ -5695,6 +5703,10 @@ PrefabInstance:
       propertyPath: player
       value: 
       objectReference: {fileID: 1957020131}
+    - target: {fileID: 4254247281784929349, guid: dcaafebaa7cc988459daa6b1eab752ca, type: 3}
+      propertyPath: playerr
+      value: 
+      objectReference: {fileID: 12910309}
     - target: {fileID: 4254247281784929349, guid: dcaafebaa7cc988459daa6b1eab752ca, type: 3}
       propertyPath: whatIsGround.m_Bits
       value: 256
@@ -7825,7 +7837,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4254247281784929346, guid: dcaafebaa7cc988459daa6b1eab752ca, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -34.88
+      value: -35.08
       objectReference: {fileID: 0}
     - target: {fileID: 4254247281784929346, guid: dcaafebaa7cc988459daa6b1eab752ca, type: 3}
       propertyPath: m_LocalPosition.y
@@ -7871,6 +7883,10 @@ PrefabInstance:
       propertyPath: player
       value: 
       objectReference: {fileID: 1957020131}
+    - target: {fileID: 4254247281784929349, guid: dcaafebaa7cc988459daa6b1eab752ca, type: 3}
+      propertyPath: playerr
+      value: 
+      objectReference: {fileID: 12910309}
     - target: {fileID: 4254247281784929349, guid: dcaafebaa7cc988459daa6b1eab752ca, type: 3}
       propertyPath: whatIsGround.m_Bits
       value: 256
@@ -8559,6 +8575,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 1957020131}
     - target: {fileID: 4254247281784929349, guid: dcaafebaa7cc988459daa6b1eab752ca, type: 3}
+      propertyPath: playerr
+      value: 
+      objectReference: {fileID: 12910309}
+    - target: {fileID: 4254247281784929349, guid: dcaafebaa7cc988459daa6b1eab752ca, type: 3}
       propertyPath: whatIsGround.m_Bits
       value: 256
       objectReference: {fileID: 0}
@@ -9162,6 +9182,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 1957020131}
     - target: {fileID: 4254247281784929349, guid: dcaafebaa7cc988459daa6b1eab752ca, type: 3}
+      propertyPath: playerr
+      value: 
+      objectReference: {fileID: 12910309}
+    - target: {fileID: 4254247281784929349, guid: dcaafebaa7cc988459daa6b1eab752ca, type: 3}
       propertyPath: whatIsGround.m_Bits
       value: 256
       objectReference: {fileID: 0}
@@ -9465,6 +9489,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 1957020131}
     - target: {fileID: 4254247281784929349, guid: dcaafebaa7cc988459daa6b1eab752ca, type: 3}
+      propertyPath: playerr
+      value: 
+      objectReference: {fileID: 12910309}
+    - target: {fileID: 4254247281784929349, guid: dcaafebaa7cc988459daa6b1eab752ca, type: 3}
       propertyPath: whatIsGround.m_Bits
       value: 256
       objectReference: {fileID: 0}
@@ -9615,6 +9643,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 1957020131}
     - target: {fileID: 4254247281784929349, guid: dcaafebaa7cc988459daa6b1eab752ca, type: 3}
+      propertyPath: playerr
+      value: 
+      objectReference: {fileID: 12910309}
+    - target: {fileID: 4254247281784929349, guid: dcaafebaa7cc988459daa6b1eab752ca, type: 3}
       propertyPath: whatIsGround.m_Bits
       value: 256
       objectReference: {fileID: 0}
@@ -9764,6 +9796,10 @@ PrefabInstance:
       propertyPath: player
       value: 
       objectReference: {fileID: 1957020131}
+    - target: {fileID: 4254247281784929349, guid: dcaafebaa7cc988459daa6b1eab752ca, type: 3}
+      propertyPath: playerr
+      value: 
+      objectReference: {fileID: 12910309}
     - target: {fileID: 4254247281784929349, guid: dcaafebaa7cc988459daa6b1eab752ca, type: 3}
       propertyPath: whatIsGround.m_Bits
       value: 256
@@ -10245,7 +10281,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 1250, y: 1250}
+  m_SizeDelta: {x: 2000, y: 2000}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1759799178
 MonoBehaviour:
@@ -10567,6 +10603,10 @@ PrefabInstance:
       propertyPath: player
       value: 
       objectReference: {fileID: 1957020131}
+    - target: {fileID: 4254247281784929349, guid: dcaafebaa7cc988459daa6b1eab752ca, type: 3}
+      propertyPath: playerr
+      value: 
+      objectReference: {fileID: 12910309}
     - target: {fileID: 4254247281784929349, guid: dcaafebaa7cc988459daa6b1eab752ca, type: 3}
       propertyPath: whatIsGround.m_Bits
       value: 256

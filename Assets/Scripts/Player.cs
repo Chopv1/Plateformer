@@ -37,7 +37,7 @@ public class Player : MonoBehaviour
         maxHp = 100;
         hp = maxHp;
         rigidbodyComponent = GetComponent<Rigidbody>();
-        showJump();
+        ShowJump();
         EnnemiMort();
     }
 
@@ -61,8 +61,9 @@ public class Player : MonoBehaviour
         if(Input.GetKeyDown(KeyCode.Space) && canJump)
         {
             SuperJump();
+            jumpKeyWasPressed = true;
         }
-        showJump();
+        ShowJump();
         EnnemiMort();
     }
     public void SuperJump()
@@ -182,7 +183,7 @@ public class Player : MonoBehaviour
         canAttack = false;
     }
 
-    public void showJump()
+    public void ShowJump()
     {
         showSuperJump.GetComponent<Text>().enabled = true;
         showSuperJump.GetComponent<Text>().text = $"Nombre de super jump restant: {superJumpsRemaining}";
