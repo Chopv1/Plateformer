@@ -2,7 +2,7 @@
 
 ## Le projet
 
-C'est un jeu, un plateformer pour être plus précis, il faut atteindre la fin du niveau sans mourrir et sans tomber dans le vide. Le joueur peut se mouvoir et peut sauter. S'il le joueur obtiens une pièce il peut utiliser une super jump pour sauter plus haut.
+C'est un jeu, un plateformer pour être plus précis, il faut atteindre la fin du niveau sans mourrir et sans tomber dans le vide. Le joueur peut se mouvoir et peut sauter. S'il le joueur obtiens une pièce il peut utiliser un super jump pour sauter plus haut.
 
 ## L'installation 
 
